@@ -15,11 +15,6 @@
 - AI/ML pipelines and model integrations
 - APIs that actually hold up under load
 
-##  Interests
-
-- Machine Learning & Deep Learning
-- Backend architecture (microservices, REST, async systems)
-- MLOps & deploying models to production
 
 ##  Let's Connect
 
