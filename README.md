@@ -21,7 +21,7 @@
 
 ---
 <p align="center">
-  git commit -m "epoch 21: still improving" 
+  git commit -m "epoch 45 : still improving" 
 
 </p>
 
