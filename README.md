@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="left">
+  Hello visitor ID # <img src="https://komarev.com/ghpvc/?username=someshhh-45&color=grey&style=flat-square">
+</p>
 
-<!--
-**someshhh-45/someshhh-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">SOMESH</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  build • break • debug • repeat
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```bash
+> currently learning:
+java
+backend
+llms
+open source
+
+> system status:
+surviving on caffeine and stack overflow
+
+> current mission:
+build something impossible
