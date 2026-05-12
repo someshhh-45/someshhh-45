@@ -9,17 +9,17 @@
 
 ---
 
-## 🔨 Currently Building
+##  Currently Building
 
 - Scalable backend services & distributed systems
 - AI/ML pipelines and model integrations
 - APIs that actually hold up under load
 
-## 🧠 Interests
+##  Interests
 
 - Machine Learning & Deep Learning
 - Backend architecture (microservices, REST, async systems)
-- MLOps & deploying models to productio
+- MLOps & deploying models to production
 
 ## 📫 Let's Connect
 
