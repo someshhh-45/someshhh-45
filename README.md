@@ -10,16 +10,45 @@
 
 ---
 
+```bash
+> currently learning:
+  java
+  backend
+  llms
+  open source
 
+> system status:
+  surviving on caffeine and stack overflow
+
+> current mission:
+  build something impossible
+```
 
 ---
 
-### 📊 github stats
+```
+╔══════════════════════════════════════════════════════╗
+║                  [ github.stats ]                   ║
+╠═══════════════════╦══════════════════╦══════════════╣
+║   total repos     ║  total commits   ║   visitors   ║
+╠═══════════════════╬══════════════════╬══════════════╣
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=someshhh-45&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues,prs,contribs&custom_title=repos+%26+commits&hide_border=true&theme=default&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsomeshhh-45&query=public_repos&label=total%20repos&style=flat-square&color=black" alt="total repos" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/total%20commits-see%20activity-black?style=flat-square" alt="total commits" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=someshhh-45&color=black&style=flat-square&label=visitors" alt="visitors" />
 </p>
 
+```
+╚═══════════════════╩══════════════════╩══════════════╝
+```
+
+---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=someshhh-45&hide_border=true&theme=default" alt="GitHub Streak" />
+  <sub>still loading... or maybe it compiled fine for once</sub>
 </p>
