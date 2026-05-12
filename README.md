@@ -19,7 +19,7 @@ AI/ML enthusiast who builds scalable backend systems.
 
 - Machine Learning & Deep Learning
 - Backend architecture (microservices, REST, async systems)
-- MLOps & deploying models to production
+- MLOps & deploying models to productio
 
 ## 📫 Let's Connect
 
@@ -27,4 +27,4 @@ Always up for talking backend, AI, or anything in between.
 
 ---
 
-*build · break · debug · repeat*
+*train · build · scale*
