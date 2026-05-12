@@ -4,14 +4,14 @@
 </p>
 <h1 align="center">ＳＯＭＥＳＨ</h1>
 <p align="center">
-  train · build · scale
+  git commit -m "epoch 21: still improving" 
+
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=someshhh-45&color=grey&style=flat-square" alt="visitor count">
 </p>
 
 > *Computer Science student building scalable systems for intelligent ideas.*
-git commit -m "epoch 21: still improving" 
 
 
 ---
