@@ -1,5 +1,5 @@
 <p align="left">
-  hello, visitor.
+  Hello, Visitor.
   <br>
   and i'm
 </p>
@@ -7,7 +7,7 @@
 <h1 align="center">ＳＯＭＥＳＨ</h1>
 
 <p align="center">
-  engineering scalable systems for intelligent ideas
+    code · debug · deploy
 </p>
 
 <p align="left">
@@ -26,12 +26,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Backend+Systems+Builder;Train+•+Build+•+Scale" />
-</p>
-
 ---
 
 <p align="center">
-  train · build · scale
+    code · debug · deploy
 </p>
