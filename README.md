@@ -1,7 +1,8 @@
 <p align="left">
-  Hello Visitor.
+  Hello Visitor, 
+  And I'm
 </p>
-<h1 align="center">I'M ＳＯＭＥＳＨ</h1>
+<h1 align="center">ＳＯＭＥＳＨ</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=someshhh-45&color=grey&style=flat-square" alt="visitor count">
 </p>
