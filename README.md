@@ -20,9 +20,10 @@
 - APIs that actually hold up under load
 
 
-##  Let's Connect
+ ### Connect
 
-Always up for talking backend, AI, or anything in between.
+backend • ai/ml • systems design
+
 
 ---
 
