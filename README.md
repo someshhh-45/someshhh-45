@@ -19,12 +19,6 @@
 - AI/ML pipelines and model integrations
 - APIs that actually hold up under load
 
-
- ### Connect
-
-backend • ai/ml • systems design
-
-
 ---
 
 *train · build · scale*
