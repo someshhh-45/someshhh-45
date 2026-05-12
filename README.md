@@ -21,7 +21,7 @@
 - Backend architecture (microservices, REST, async systems)
 - MLOps & deploying models to production
 
-## 📫 Let's Connect
+##  Let's Connect
 
 Always up for talking backend, AI, or anything in between.
 
