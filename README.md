@@ -1,28 +1,27 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=someshhh-45&color=grey&style=flat-square" alt="visitor count">
-</p>
+# Hi, I'm Somesh 👋
 
-<h1 align="center">SOMESH</h1>
+> *Yes, that's my actual name.*
 
-<p align="center">build &nbsp;·&nbsp; break &nbsp;·&nbsp; debug &nbsp;·&nbsp; repeat</p>
+AI/ML enthusiast who builds scalable backend systems.
 
-<br/>
+---
 
-```bash
-> currently learning:    java · backend · llms · open source
-> system status:         surviving on caffeine and stack overflow
-> current mission:       build something impossible
-```
+## 🔨 Currently Building
 
-<br/>
-<br/>
+- Scalable backend services & distributed systems
+- AI/ML pipelines and model integrations
+- APIs that actually hold up under load
 
-<div align="center">
+## 🧠 Interests
 
-<!-- STATS:START -->
-| repos | commits | visitors |
-|:---:|:---:|:---:|
-| ![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsomeshhh-45&query=public_repos&style=flat-square&color=black&label=%20&cacheSeconds=3600) | ![commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Asomeshhh-45&query=total_count&style=flat-square&color=black&label=%20&cacheSeconds=3600) | ![visitors](https://komarev.com/ghpvc/?username=someshhh-45&color=black&style=flat-square&label=%20) |
-<!-- STATS:END -->
+- Machine Learning & Deep Learning
+- Backend architecture (microservices, REST, async systems)
+- MLOps & deploying models to production
 
-</div>
+## 📫 Let's Connect
+
+Always up for talking backend, AI, or anything in between.
+
+---
+
+*build · break · debug · repeat*
