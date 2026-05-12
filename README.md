@@ -14,14 +14,24 @@
   <img src="https://komarev.com/ghpvc/?username=someshhh-45&color=grey&style=flat-square" alt="visitor count">
 </p>
 
-> *Computer Science student exploring AI/ML, backend systems, and scalable engineering.*
+> *Computer Science student building scalable systems for intelligent ideas.*
 
 ---
 
-```bash
-STATUS
+## currently building
 
-AI/ML:               LEARNING
-BACKEND SYSTEMS:     BUILDING
-OPEN SOURCE:         EXPLORING
-SLEEP SCHEDULE:      NOT FOUND
+- scalable backend services & distributed systems
+- AI/ML pipelines and model integrations
+- APIs that actually hold up under load
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Backend+Systems+Builder;Train+•+Build+•+Scale" />
+</p>
+
+---
+
+<p align="center">
+  train · build · scale
+</p>
