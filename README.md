@@ -3,10 +3,7 @@
   and I'm
 </p>
 <h1 align="center">ＳＯＭＥＳＨ</h1>
-<p align="center">
-  git commit -m "epoch 21: still improving" 
 
-</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=someshhh-45&color=grey&style=flat-square" alt="visitor count">
 </p>
@@ -23,6 +20,10 @@
 - APIs that actually hold up under load
 
 ---
+<p align="center">
+  git commit -m "epoch 21: still improving" 
 
+</p>
+---
 
 
