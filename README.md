@@ -1,5 +1,5 @@
 <p align="left">
-  Hello Visitor and I'M
+  Hello Visitor and I'm
 </p>
 <h1 align="center">ＳＯＭＥＳＨ</h1>
 <p align="left">
