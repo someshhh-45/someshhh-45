@@ -5,7 +5,7 @@
 <h1 align="center">ＳＯＭＥＳＨ</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=someshhh-45&color=grey&style=flat-square" alt="visitor count">
+  <img src="https://komarev.com/ghpvc/?username=someshhh-45&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count" />
 </p>
 
 > *Computer Science student building scalable systems for intelligent ideas.*
