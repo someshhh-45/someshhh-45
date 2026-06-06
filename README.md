@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=someshhh-45&label=Profile%20Views&color=grey&style=plastic" alt="profile views" />
 </p>
 
-> *Computer Science student building scalable systems for intelligent ideas.*
+> *Computer Science student building scalable systems for crazy ideas.*
 
 
 ---
