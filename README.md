@@ -5,7 +5,7 @@
 <h1 align="center">ＳＯＭＥＳＨ</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=someshhh-45&label=Profile%20Views&color=grey&style=plastic" alt="profile views" />
+   [![Profile Views](https://komarev.com/ghpvc/?username=someshhh-45&label=Profile%20Views&color=grey&style=plastic&v=2)](https://github.com/someshhh-45)
 </p>
 
 > *Computer Science student building scalable systems for crazy ideas.*
