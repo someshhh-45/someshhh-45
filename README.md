@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/someshhh-45">
-//<img src="https://komarev.com/ghpvc/?username=someshhh-45&label=Profile%20Views&color=grey&style=plastic" alt="Profile Views" />  </a>
+<img src="https://komarev.com/ghpvc/?username=someshhh-45&label=Profile%20Views&color=grey&style=plastic" alt="Profile Views" />  </a>
   
 </p>
 
