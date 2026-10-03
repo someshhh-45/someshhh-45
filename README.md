@@ -7,8 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/someshhh-45">
-    <img src="https://komarev.com/ghpvc/?username=someshhh-45&label=Profile%20Views&color=grey&style=plastic&v=2" alt="Profile Views" />
-  </a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=someshhh-45.someshhh-45&left_text=Profile%20Views&left_color=grey&right_color=555555" alt="Profile Views" />  </a>
 </p>
 
 > *Computer Science student building scalable systems for crazy ideas.*
